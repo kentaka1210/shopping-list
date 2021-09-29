@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description>Mobile shopping list</description>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="アイコン：買い物かご">66c381432ff23010c3fe54492799b69e</icon>
+        <item_view/>
+        <name>Store Form Screen</name>
+        <override_context_with_data_item>false</override_context_with_data_item>
+        <roles_override/>
+        <segments_height>medium</segments_height>
+        <segments_min_width>medium</segments_min_width>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-29 05:02:33</sys_created_on>
+        <sys_id>32c3c5872ff23010c3fe54492799b6b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Store Form Screen</sys_name>
+        <sys_package display_value="Shopping List" source="x_656200_shopping">3d000d832ff23010c3fe54492799b62b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">3d000d832ff23010c3fe54492799b62b</sys_scope>
+        <sys_update_name>sys_sg_form_screen_32c3c5872ff23010c3fe54492799b6b9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-29 05:02:33</sys_updated_on>
+        <table>x_656200_shopping_store</table>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Store Detail Screen View Config">fec3c5872ff23010c3fe54492799b6ac</view_config>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=32c3c5872ff23010c3fe54492799b6b9"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>32c3c5872ff23010c3fe54492799b6b9</documentkey>
+        <fieldname>description</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-29 05:02:33</sys_created_on>
+        <sys_id>b2c3c5872ff23010c3fe54492799b6ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-29 05:02:33</sys_updated_on>
+        <tablename>sys_sg_form_screen</tablename>
+        <value>Mobile shopping list</value>
+    </sys_translated_text>
+</record_update>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config">
+    <sys_sg_view_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <name>Store List Screen View Config</name>
+        <sys_class_name>sys_sg_view_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-29 05:02:32</sys_created_on>
+        <sys_id>bac3c5872ff23010c3fe54492799b6a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Store List Screen View Config</sys_name>
+        <sys_package display_value="Shopping List" source="x_656200_shopping">3d000d832ff23010c3fe54492799b62b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">3d000d832ff23010c3fe54492799b62b</sys_scope>
+        <sys_update_name>sys_sg_view_config_bac3c5872ff23010c3fe54492799b6a1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-29 05:02:32</sys_updated_on>
+        <table>x_656200_shopping_store</table>
+        <template display_value="アプレット 01">6bb0be5c41a71010f877183fc9b8be0c</template>
+    </sys_sg_view_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=bac3c5872ff23010c3fe54492799b6a1"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>bac3c5872ff23010c3fe54492799b6a1</documentkey>
+        <fieldname>description</fieldname>
+        <language>ja</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-09-29 05:02:32</sys_created_on>
+        <sys_id>bec3c5872ff23010c3fe54492799b6a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-29 05:02:32</sys_updated_on>
+        <tablename>sys_sg_view_config</tablename>
+        <value/>
+    </sys_translated_text>
+</record_update>
